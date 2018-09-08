@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		<h1>myhitgub</h1>
+		<ul>
+			<li ><a href="task0001.html">homepage</a></li>
+		    <li>blog<a href="http.baidu.com"></a></li>
+		</ul>
+		<h2>这是二级标题</h2>
+		<p>这是我的第一个html页面，这里有一个文字段落</p>
+		<image src="baidu.jpg"></image>
+	</body>
+</html>
